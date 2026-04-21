@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DelfanDZW&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DelfanDZW&layout=compact&langs_count=8&card_width=340&theme=aura" />
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DelfanDZW&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DelfanDZW&layout=compact&langs_count=8&theme=merko&hide_border=true" />
+</p>
 
 <!--
 **mivanf/mivanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
