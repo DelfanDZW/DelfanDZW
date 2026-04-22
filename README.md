@@ -35,17 +35,16 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-1793D1?logo=kali-linux&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+## Table of What i Use
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,python" /><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,python,html,css,vue" /><br>
       <strong>Languages</strong>
     </td>
     <td align="center" style="border: none;">
