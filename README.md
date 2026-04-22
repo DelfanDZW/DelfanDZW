@@ -1,4 +1,4 @@
-<img src="Wire.png">
+<img src="WireNew.png">
 
 ## Hello! I'm Delfan Nuziar
 
