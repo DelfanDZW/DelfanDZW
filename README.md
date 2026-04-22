@@ -8,11 +8,6 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DelfanDZW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </a>
       </td>
-      <td valign="top">
-        <a href="https://github.com/DelfanDZW">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DelfanDZW&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=true" height="400" />
-        </a>
-      </td>
     </tr>
   </table>
 </div>
