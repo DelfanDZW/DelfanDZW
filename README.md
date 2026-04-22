@@ -1,3 +1,5 @@
+<img src="Wire.png">
+
 ## Hello! I'm Delfan Nuziar
 
 <div align="center">
