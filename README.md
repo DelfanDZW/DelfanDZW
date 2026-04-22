@@ -1,7 +1,6 @@
 ## Hello! I'm Delfan Nuziar
 
 <div align="center">
-  <table border="0">
     <tr>
       <td valign="top">
            <a href="https://github.com/DelfanDZW">
@@ -9,7 +8,6 @@
       </a>
       </td>
     </tr>
-  </table>
 </div>
 
 ---
