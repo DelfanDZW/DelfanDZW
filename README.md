@@ -1,4 +1,4 @@
-## Hello!
+## Hello! I'm Delfan Nuziar
 
 <div align="center">
   <table border="0">
@@ -41,6 +41,29 @@
 ![Kali](https://img.shields.io/badge/Kali%20Linux-1793D1?logo=kali-linux&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,python" /><br>
+      <strong>Languages</strong>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nextjs,laravel,flutter" /><br>
+      <strong>Frameworks</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase" /><br>
+      <strong>Backend & Database</strong>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=tailwind,vite,postman,vscode,androidstudio" /><br>
+      <strong>Styling & Tools</strong>
+    </td>
+  </tr>
+</table>
 <!--
 **DelfanDZW/DelfanDZW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
