@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,python,html,css,vue" /><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css,vue" /><br>
       <strong>Languages</strong>
     </td>
     <td align="center" style="border: none;">
