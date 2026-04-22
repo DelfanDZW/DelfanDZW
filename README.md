@@ -20,7 +20,30 @@
   </table>
 </div>
 
-## Tech Stacks
+## Table of What i Use
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,python,html,css,vue" /><br>
+      <strong>Languages</strong>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nestjs,laravel" /><br>
+      <strong>Frameworks</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase" /><br>
+      <strong>Backend & Database</strong>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=tailwind,vite,postman,vscode,androidstudio" /><br>
+      <strong>Styling & Tools</strong>
+    </td>
+  </tr>
+</table>
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -38,31 +61,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-1793D1?logo=kali-linux&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Table of What i Use
-<table align="center">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,python,html,css,vue" /><br>
-      <strong>Languages</strong>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nextjs,laravel,flutter" /><br>
-      <strong>Frameworks</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase" /><br>
-      <strong>Backend & Database</strong>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=tailwind,vite,postman,vscode,androidstudio" /><br>
-      <strong>Styling & Tools</strong>
-    </td>
-  </tr>
-</table>
 <!--
 **DelfanDZW/DelfanDZW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
