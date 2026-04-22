@@ -7,7 +7,7 @@
       <td valign="top">
            <a href="https://github.com/DelfanDZW">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DelfanDZW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mivanf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+        <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DelfanDZW&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </p>
       </a>
       </td>
