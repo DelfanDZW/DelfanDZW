@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/cba7f760-8a27-4a7b-98ba-7519165fbc97
+
+
 <img src="WireNew.png">
 
 ## Hello! I'm Delfan Nuziar
